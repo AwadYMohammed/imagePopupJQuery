@@ -24,3 +24,16 @@ ul li {
 	display: inline-block;
 	
 }
+a {
+	text-decoration: none;
+	
+	
+}
+ul li img {
+	display: block;
+	width:130px;
+	height:100px;
+	
+	
+	
+}
